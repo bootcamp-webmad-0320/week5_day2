@@ -8,7 +8,6 @@
 >
 > ChartJS
 
-Vídeo disponible [en este enlace](https://ironhack.zoom.us/rec/share/4eA2f5Guxl9Je6_z2n_UfPccL7_4X6a8hyccr6UIn0nnWXaKKsOa6FE_c4YH8dpc)
 
 ## Main Points: Google Maps
 
